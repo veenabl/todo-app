@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": { "*.jsx": "javascriptreact" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "files.exclude": { "node_modules": true, "dist": true },
+  "search.exclude": { "node_modules": true, "dist": true, "package-lock.json": true }
+}
